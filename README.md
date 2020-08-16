@@ -26,6 +26,7 @@ A curated list of awesome reversing resources
 
 *Reverse Engineering Books*
 
+* [The Ghidra Book](https://nostarch.com/GhidraBook)
 * [The IDA Pro Book](http://amzn.to/2jTicOg)
 * [Radare2 Book](https://www.gitbook.com/book/radare/radare2book/details)
 * [Reverse Engineering for Beginners](http://beginners.re/)
